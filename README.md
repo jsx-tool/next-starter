@@ -1,4 +1,4 @@
-# Next.js with JSX Tool (Manual Installation - Recommended)
+# Next.js with JSX Tool Pre-Configured
 
 This is a starter project with JSX Tool and Next.js using the **manual installation**. This is the **recommended approach**. Acess the app with JSX Tool pre-installed and accessible at **localhost:3000**
 
